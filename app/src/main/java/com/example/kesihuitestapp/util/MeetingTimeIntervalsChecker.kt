@@ -1,5 +1,6 @@
+package com.example.kesihuitestapp.util
+
 import android.util.Log
-import com.example.kesihuitestapp.util.ArrayPrinter
 
 
 class MeetingTimeIntervalsChecker {

@@ -1,4 +1,4 @@
-import com.example.kesihuitestapp.util.ArrayPrinter
+package com.example.kesihuitestapp.util
 
 class MeetingTimeIntervalsGenerator {
 

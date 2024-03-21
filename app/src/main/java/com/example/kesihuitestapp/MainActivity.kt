@@ -1,9 +1,8 @@
 package com.example.kesihuitestapp
 
-import MeetingTimeIntervalsChecker
-import MeetingTimeIntervalsGenerator
+import com.example.kesihuitestapp.util.MeetingTimeIntervalsChecker
+import com.example.kesihuitestapp.util.MeetingTimeIntervalsGenerator
 import android.os.Bundle
-import android.util.Log
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.layout.fillMaxSize
