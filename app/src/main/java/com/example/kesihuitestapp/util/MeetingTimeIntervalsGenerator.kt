@@ -14,14 +14,25 @@ class MeetingTimeIntervalsGenerator {
 //            arrayOf(5, 10),
 //            arrayOf(15,20),
 
-//            arrayOf(7, 10),
-//            arrayOf(2, 4)
+            arrayOf(7, 10),
+            arrayOf(2, 4),
 
 //            arrayOf(1, 5),
 //            arrayOf(8, 9),
 //            arrayOf(8, 10),
 
-            arrayOf(0, 30)
+//            arrayOf(0, 30),
+
+//            arrayOf(0, 0),
+
+//            arrayOf(1, 0),
+
+//            arrayOf(1, 0),
+//            arrayOf(0, 0, 3),
+
+//            arrayOf(-1, -2)
+
+
         )
         //ArrayPrinter.printGenerateArray(array)
         return array
